@@ -11,11 +11,11 @@
 
 - 🎓 2021 Graduate with a major in **Computer Science & Engineering**.
 - 👨‍💻 Started my first internship in 2020, right before COVID.
-- 💼 I have **3.5+ years** of experience in software engineering.
+- 💼 I have **5.5+ years** of experience in software engineering.
 - 💻 Specializing in **Frontend & Backend** technologies:
-  - **Frameworks**: Django, Flask, React, Angular, Docker.
-  - **Databases & Caching**: PostgreSQL, Redis.
-- 🛠️ **Programming Languages**: Python, Go, Rust, JavaScript, Solidity.
+  - **Frameworks**: Django, Flask, Express, React, Angular, Docker.
+  - **Databases & Caching**: PostgreSQL, Firestore, MongoDB, Redis.
+- 🛠️ **Programming Languages**: Python, Go, Rust, JavaScript, TypeScript, Solidity.
 - 🔗 **Blockchain Developer**: I develop core blockchain modules for chains built using the Cosmos SDK and actively contribute to the Cosmos ecosystem.
 
 ---
